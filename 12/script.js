@@ -1,5 +1,5 @@
 // （API_KEY には、"取得したAPIキー" を記述）
-API_KEY = "23b3f6529bd3b7be0448fce8efb1feed";
+API_KEY = "";
 
 $(function(){
   $('#btn').on('click', function() {
